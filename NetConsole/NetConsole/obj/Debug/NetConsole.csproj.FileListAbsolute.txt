@@ -1,0 +1,9 @@
+C:\dev\InstallerProject\ComptatibilityNet\NetConsole\NetConsole\bin\Debug\NetConsole.exe.config
+C:\dev\InstallerProject\ComptatibilityNet\NetConsole\NetConsole\bin\Debug\NetConsole.exe
+C:\dev\InstallerProject\ComptatibilityNet\NetConsole\NetConsole\bin\Debug\NetConsole.pdb
+C:\dev\InstallerProject\ComptatibilityNet\NetConsole\NetConsole\bin\Debug\System.Management.Automation.dll
+C:\dev\InstallerProject\ComptatibilityNet\NetConsole\NetConsole\obj\Debug\NetConsole.csprojAssemblyReference.cache
+C:\dev\InstallerProject\ComptatibilityNet\NetConsole\NetConsole\obj\Debug\NetConsole.csproj.CoreCompileInputs.cache
+C:\dev\InstallerProject\ComptatibilityNet\NetConsole\NetConsole\obj\Debug\NetConsole.csproj.CopyComplete
+C:\dev\InstallerProject\ComptatibilityNet\NetConsole\NetConsole\obj\Debug\NetConsole.exe
+C:\dev\InstallerProject\ComptatibilityNet\NetConsole\NetConsole\obj\Debug\NetConsole.pdb
