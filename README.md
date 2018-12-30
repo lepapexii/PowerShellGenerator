@@ -1,1 +1,3 @@
 # GL HF!
+
+## It is not in core because the PowerShell C# dependance isn't compatible yet...
